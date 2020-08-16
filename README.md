@@ -1,5 +1,7 @@
 # 🎉 Event-Management-Application-Using-ReactJs-And-NextJs
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fvibhorme%2FEvent-Management-Application-Using-ReactJs-And-NextJs)
+
 This is an event management application in which a customer can 
 
 1. Create an Event Management app where a user can add an event and see the list of all the events.  
