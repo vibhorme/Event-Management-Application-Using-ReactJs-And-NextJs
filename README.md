@@ -26,6 +26,10 @@ The Frontend Stack used includes
 10. Es6
 11. Hooks
 
+#[WIP] Currently, In the Application, you can only create an event
+
+The Pages being created are mobile first and completely responsive with adaptive and minimalised design being created.
+
 
 
 
