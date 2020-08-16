@@ -1,6 +1,6 @@
 # 🎉 Event-Management-Application-Using-ReactJs-And-NextJs
 
-#Demo: https://event-management-application.vercel.app/
+# Demo: https://event-management-application.vercel.app/
 
 
 This is an event management application in which a customer can 
