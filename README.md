@@ -1,30 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎉 Event-Management-Application-Using-ReactJs-And-NextJs
 
-## Getting Started
+This is an event management application in which a customer can 
 
-First, run the development server:
+1. Create an Event Management app where a user can add an event and see the list of all the events.  
+2. For adding the event user has to fill in a form. You can consider taking following fields from the user - Event Name, Description, Venue, Price and Discount  
+3. The form should have “Submit” and “Clear” buttons for submitting and clearing the form respectively  
+4. Validations : Form validations should be handled with proper error messages displayed.  
+5. OnSubmit of the form, the event should be added to the list and will be displayed with the information captured.  
+6. On top of the list, have a filter where user can filter the list based on following parameters - All, Free, Discount, No Discount  
+7. On clicking the “Clear” button should reset the form but keep displaying the list if it has any event already.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+The Frontend Stack used includes
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. HTML5
+2. CSS3
+3. Javascript
+4. ReactJs
+6. Styled components
+7. NextJs
+8. SSR
+9. Typescript
+10. Es6
+11. Hooks
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
